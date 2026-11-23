@@ -29,8 +29,7 @@ Aprimorar minhas habilidades como desenvolvedor, aprender novas tecnologias e co
 
 ### 📫 Contato
 
-- LinkedIn: [Adicionar perfil]
-- E-mail profissional: [Adicionar e-mail, se desejar]
+- E-mail profissional: [felipenun24.2008@gmail.com]
 <!--
 **felipenun-codes/felipenun-codes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
