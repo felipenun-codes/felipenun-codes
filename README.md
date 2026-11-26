@@ -31,6 +31,7 @@ Aprimorar minhas habilidades como desenvolvedor, aprender novas tecnologias e co
 ### 📫 Contato
 
 - E-mail profissional: [felipenun24.2008@gmail.com]
+- linkedin: [https://www.linkedin.com/in/felipe-nunes-362307449/]
 <!--
 **felipenun-codes/felipenun-codes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
