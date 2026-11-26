@@ -7,13 +7,14 @@ Atualmente, estou aprimorando meus conhecimentos em **Python**, lógica de progr
 ### 💻 Tecnologias
 
 - 🐍 Python
+- 🤖 Arduíno
 - ⚙️ Lógica de Programação
 - 📂 Organização de projetos
 - 🔧 Git e GitHub (em aprendizado)
 
 ### 🚀 Projeto em destaque
 
-**SentinelaLog — Monitor de Acessos e Detecção de Anomalias**
+**SentinelaLog : Monitor de Acessos e Detecção de Anomalias**
 
 Sistema desenvolvido em Python para registrar acessos a um laboratório de informática e identificar situações suspeitas.
 
