@@ -4,7 +4,7 @@ Sou estudante de programação, interessado em desenvolvimento de software, tecn
 
 Atualmente, estou aprimorando meus conhecimentos em **Python**, lógica de programação e desenvolvimento de projetos práticos.
 
-### 💻 Tecnologias
+### 💻 Habilidades
 
 - 🐍 Python
 - 🤖 Arduíno
